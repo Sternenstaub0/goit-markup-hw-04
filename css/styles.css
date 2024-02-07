@@ -248,10 +248,32 @@ img {
   /* display: flex;
   width: 40px;
   height: 40px;
-  margin: 0 auto; */
+  margin: 0 auto;
+  justify-content: center; */
+}
+
+.team-ul-class {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+}
+
+.team-li-class {
+}
+
+.a-team-class {
+  width: 40px;
+  height: 40px;
+  background-color: #4d5ae5;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .svg-adventages-icons {
+  display: flex;
+  justify-content: center;
 }
 
 .img-item-list {
@@ -270,6 +292,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
+  padding-bottom: 8px;
 }
 
 .team-container {
