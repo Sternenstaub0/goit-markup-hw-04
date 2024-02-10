@@ -449,7 +449,6 @@ img {
 }
 
 .footer-div {
-  align-items: baseline;
 }
 .footer-ul-class {
   display: flex;
@@ -491,6 +490,7 @@ img {
 
 .footer-style-container {
   margin-right: 120px;
+  align-items: baseline;
 }
 
 .footer-style {
