@@ -490,10 +490,10 @@ img {
 
 .footer-style-container {
   margin-right: 120px;
-  align-items: baseline;
 }
 
 .footer-style {
   display: flex;
+  align-items: baseline;
 }
 /* flex-wrap */
